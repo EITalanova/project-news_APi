@@ -1,21 +1,21 @@
 {
-  "name": "goit-project-newsAPi",
+  "name": "project-news_APi",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://EITalanova.github.io/goit-project-newsAPi/",
+  "homepage": "https://EITalanova.github.io/project-news_APi/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-project-newsAPi/"
+    "build": "parcel build src/*.html --public-url /project-news_APi/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EITalanova/goit-project-newsAPi.git"
+    "url": "git+https://github.com/EITalanova/project-news_APi.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EITalanova/goit-project-newsAPi/issues"
+    "url": "https://github.com/EITalanova/project-news_APi/issues"
   },
   "dependencies": {
     "air-datepicker": "^3.3.5",
